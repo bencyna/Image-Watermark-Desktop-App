@@ -1,4 +1,4 @@
-# Tic Tac Toe console game
+# Image watering desktop app
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
@@ -17,13 +17,15 @@ Install the repository and dependancies and run the application. You will need p
 - [Questions](#questions)
 
 ## Description:
-Ever needed to play tic tac tow without any cool visuals. Now you can, play against a friend or play against the worlds worse bot
+This project will allow watermarking of images and custom style
+
 
 ## Installation:
-Using functions and the command line, this application prints a basic as tic tac toe game that is quite fun
+using tkinter
 
 ## Usage:
-The purpose of this project is to develop my python skills, tic tac toe as a fun way to do it. Making a bot to play against was quite fun too
+Allow watermarks to be added easily
+
 
 ***
 ![image of application running in console](./assets/Screenshot1.png)  
